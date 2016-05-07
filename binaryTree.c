@@ -53,7 +53,7 @@ int main(){
 	// Write Array
 	for(i= 1 ; i<=I;i++)
 		printf("%d , ",A[i]);
-	}	
+		
 	
 	
 	getch();
